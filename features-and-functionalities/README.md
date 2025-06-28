@@ -29,4 +29,4 @@ This document outlines the core backend features that support the Airbnb Clone s
 
 See attached diagram for visual breakdown.
 
-features-and-functionalities/airbnb-features.png
+![Airbnb Features Diagram](./airbnb-features.png)
